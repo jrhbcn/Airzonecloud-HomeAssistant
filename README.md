@@ -1,5 +1,9 @@
 # Airzone Local plugin for Home Assistant
 
+
+THIS IS A WORK IN PROGRESS AND NOT CURRENTLY WORKING. Use https://github.com/gpulido/homeassistant-airzone instead.
+
+
 ## Introduction
 
 Allow to view & control all your zones register on your Airzone Local ([airzonecloud.com](https://airzonecloud.com)) system from [Home Assistant](https://www.home-assistant.io/).
