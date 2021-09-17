@@ -1,3 +1,6 @@
+# Please add Issue tab to your project, as i want to use your project but i have errors. THX <3
+
+
 # Airzone Local plugin for Home Assistant
 
 
